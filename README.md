@@ -1,0 +1,2 @@
+# balenaEtcher-for.void
+balenaEtcher
