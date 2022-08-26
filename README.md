@@ -38,7 +38,7 @@ Cloudsmith is the only fully hosted, cloud-native, universal package management 
 enables your organization to create, store and share packages in any format, to any place, with total
 confidence.
 
-#### Linux void (GNU/Linux x86/x64)
+#### Linux void (GNU/Linux x86_64)
 
 ```
 wget https://github.com/johna23-lab/balenaEtcher-for.void/releases/download/1.79_3/balenaEtcher-1.79_3.x86_64.xbps
